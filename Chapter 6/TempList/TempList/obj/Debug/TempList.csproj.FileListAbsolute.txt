@@ -1,0 +1,7 @@
+C:\Users\hc192171\Desktop\C#\Chapter 6\TempList\TempList\bin\Debug\TempList.exe.config
+C:\Users\hc192171\Desktop\C#\Chapter 6\TempList\TempList\bin\Debug\TempList.exe
+C:\Users\hc192171\Desktop\C#\Chapter 6\TempList\TempList\bin\Debug\TempList.pdb
+C:\Users\hc192171\Desktop\C#\Chapter 6\TempList\TempList\obj\Debug\TempList.csprojAssemblyReference.cache
+C:\Users\hc192171\Desktop\C#\Chapter 6\TempList\TempList\obj\Debug\TempList.csproj.CoreCompileInputs.cache
+C:\Users\hc192171\Desktop\C#\Chapter 6\TempList\TempList\obj\Debug\TempList.exe
+C:\Users\hc192171\Desktop\C#\Chapter 6\TempList\TempList\obj\Debug\TempList.pdb

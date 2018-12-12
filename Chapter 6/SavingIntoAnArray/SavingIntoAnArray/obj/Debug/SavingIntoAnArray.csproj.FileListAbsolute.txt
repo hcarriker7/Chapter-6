@@ -1,0 +1,7 @@
+C:\Users\hc192171\Desktop\C#\Chapter 6\SavingIntoAnArray\SavingIntoAnArray\bin\Debug\SavingIntoAnArray.exe.config
+C:\Users\hc192171\Desktop\C#\Chapter 6\SavingIntoAnArray\SavingIntoAnArray\bin\Debug\SavingIntoAnArray.exe
+C:\Users\hc192171\Desktop\C#\Chapter 6\SavingIntoAnArray\SavingIntoAnArray\bin\Debug\SavingIntoAnArray.pdb
+C:\Users\hc192171\Desktop\C#\Chapter 6\SavingIntoAnArray\SavingIntoAnArray\obj\Debug\SavingIntoAnArray.csprojAssemblyReference.cache
+C:\Users\hc192171\Desktop\C#\Chapter 6\SavingIntoAnArray\SavingIntoAnArray\obj\Debug\SavingIntoAnArray.csproj.CoreCompileInputs.cache
+C:\Users\hc192171\Desktop\C#\Chapter 6\SavingIntoAnArray\SavingIntoAnArray\obj\Debug\SavingIntoAnArray.exe
+C:\Users\hc192171\Desktop\C#\Chapter 6\SavingIntoAnArray\SavingIntoAnArray\obj\Debug\SavingIntoAnArray.pdb
